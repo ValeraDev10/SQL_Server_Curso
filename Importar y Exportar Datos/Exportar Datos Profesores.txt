@@ -1,0 +1,12 @@
+idProfesor|nombre|apellido_p|apellido_m|fechaNacimiento|direccion|telefono|email
+1|Ana|Valera|Rayo|2008-12-31|Calle 157 # 8B-27|314565789|ana.gmail.com
+2|Jessy|CAMPOS|Torres|2001-02-02|Av, Historia 111|315989348|pedro.gmail.com
+3|Enrique|Segoviano|Diaz|2000-04-04|Calle 5 # 7-9|316979378|
+4|Andrés|García|Rodriguéz|2022-08-15|Av. España 143|312993838|andres@example.com
+5|Eva|López|Sánchez|1998-12-12|Jr. Historia 366|311848369|eva@expample.com
+6|Lara|Jimenez|Sánchez|2001-08-17|Jr. Balta 877|314611282|lara@example.com
+7|Sara|Moreno|Romero|1997-10-16|Jr. Libertad 222|316827937|sara@example.com
+8|Héctor|Ramos|Blanco|2003-05-06|Ca. Buenos Aires 222|320541738|
+9|Lucas|Castro|Ortega|1999-03-01|Av. España 654||
+10|Martín|Castillo|Cano|2000-02-13|Jr. Pardo 674||martin@example.com
+11|Mariana|Flores|peña|2001-06-05|Jr. Pardo 109||mariana@example.com

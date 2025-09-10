@@ -1,0 +1,11 @@
+idParentesco|nombre|apellido_p|apellido_m|telefono
+1|Lucas|Lopez|Gomez|955555551
+2|Mia|Araya|Castillo|955555552
+1|Alberto|Tapia|Vasquez|955555553
+2|Naomi|Jara|Figueroa|955555554
+1|Mateo|Campos|Gallardo|955555555
+2|Paloma|Aravena|Leiva|955555556
+1|Paul|Bustos|Ortega|955555557
+2|Samanta|Lopez|Pino|955555558
+1|Adrian|Rojas|Castro|955555559
+2|Greta|Reyes|Ramirez|955555560
